@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./web_static/images/815046647d23428a14ca.png" alt="ALXBnB logo">
+  <img src="./web_static/images/65f4a1dd9c51265f49d0.png" alt="ALXBnB logo">
 </p>
 
 <h1 align="center">ALXBnB</h1>

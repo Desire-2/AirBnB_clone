@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://github.com/Michaelndula/AirBnB_clone/blob/master/65f4a1dd9c51265f49d0.png?raw=true" alt="ALXBnB logo">
+  <img src="https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2018/6/65f4a1dd9c51265f49d0.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20231209%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231209T214229Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=59dab4f17545153b763af659d026eae67c88b49eb61d0edf9b36c3d1deaf3918" alt="ALXBnB logo">
 </p>
 
 <h1 align="center">ALXBnB</h1>
 <p align="center">An AirBnB clone.</p>
 
 <p align="center">
-  <img src="https://github.com/HeimerR/AirBnB_clone/raw/master/images/pipeline.png" alt="ALXBnB logo">
+  <img src="https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2018/6/815046647d23428a14ca.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20231209%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231209T214229Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=8606f9354cbbafe706a9fbbf1edc8bf81f902b84c032e0f063acac126be84c2e" alt="ALXBnB logo">
 </p>
 
 ---

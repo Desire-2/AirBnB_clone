@@ -1,6 +1,3 @@
-/*
- * === Places class style ===
- */
 
 /* Places flexbox */
 .places {
@@ -27,6 +24,17 @@
   justify-content: space-between;
   margin-bottom: 20px;
 }
+/* Guests, rooms, and bathrooms information */
+.places .information {
+  align-items: center;
+  border-top: 1px solid #ddd;
+  border-bottom: 1px solid #ddd;
+  display: flex;
+  flex-direction: row;
+  height: 80px;
+  justify-content: space-around;
+  text-align: center;
+}
 
 /* Price by night circle */
 .places .price_by_night {
@@ -41,17 +49,6 @@
   min-width: 60px;
 }
 
-/* Guests, rooms, and bathrooms information */
-.places .information {
-  align-items: center;
-  border-top: 1px solid #ddd;
-  border-bottom: 1px solid #ddd;
-  display: flex;
-  flex-direction: row;
-  height: 80px;
-  justify-content: space-around;
-  text-align: center;
-}
 
 /* Width of each guest/room/bathroom sticker */
 .places .max_guest,

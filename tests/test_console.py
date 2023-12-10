@@ -13,8 +13,8 @@ Unittest classes:
 import os
 import sys
 import unittest
-from models import file_storage
-from models.file_storage import FileStorage
+from models import storage
+from models.storage import FileStorage
 from console import HBNBCommand
 from io import StringIO
 from unittest.mock import patch
